@@ -1,5 +1,5 @@
 @echo off
-REM The script will open multipple tabs with ping command to choosen directions. Each tab is splitted. 3 panes on each tab
+REM The script will open multiple tabs with ping command to choosen directions. Each tab is splitted. 3 panes on each tab
 REM Place an ip list file called "ips.txt" in the same folder with the script
 
 setlocal ENABLEDELAYEDEXPANSION
